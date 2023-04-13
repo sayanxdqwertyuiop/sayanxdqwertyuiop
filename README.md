@@ -1,4 +1,5 @@
-import time
+
+importimportimportimport time
 
 def display_intro():
     print("Welcome to Adventure Quest!")
@@ -45,3 +46,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
